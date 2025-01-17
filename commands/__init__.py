@@ -6,7 +6,6 @@ from .guild import _register_guild
 from .plot import _register_plot
 from .activity import _register_activity
 from .profile import _register_profile
-from .pm import _register_pm
 from .join import _register_join
 from .plot2 import _register_plot2
 from .avg import _register_avg
